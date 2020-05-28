@@ -8,11 +8,11 @@
 <title>alpha homepage</title>
 </head>
 <body>
-	<header>
+	<header>i'm header
 	</header>
-	<article>
+	<article>article
 	</article>
-	<footer>
+	<footer>footer
 	</footer>
 </body>
 </html>
